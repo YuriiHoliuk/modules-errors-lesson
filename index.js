@@ -1,4 +1,4 @@
-import { createAPI } from './api.js';
+import { createAPI } from './src/api.js';
 
 const api = createAPI('http://localhost:4000');
 
